@@ -1,0 +1,81 @@
+<!--
+Nathan Martin
+JavaScript
+Assignment #4
+-->
+
+<html>
+	<head>
+		<title>Assignment #4</title>
+
+		<style type="text/css">
+			div{
+				cursor: pointer;
+			}
+
+			div#MenuItem {
+				border: solid black 1px;
+				background-color: red;
+				padding: 5px 0px;
+				width: 200px;
+			}
+
+			div#SubMenuOne{
+				background-color: #CCC;
+				left: 20px;
+				position: relative;
+				display: none;
+			}
+
+			div#SubMenuTwo{
+				background-color: #CCC;
+				left: 20px;
+				position: relative;
+				display: none;
+			}
+
+			div#SubMenuThree{
+				background-color: #CCC;
+				left: 20px;
+				position: relative;
+				display: none;
+			}
+
+		</style>
+
+		<script type="text/javascript" src='js/javascript.js'></script>
+
+	</head>
+
+	<body>
+
+
+		<div id="MenuItem" onmouseover="ShowSubMenu(1)" onmouseout="StartCloseTimer(1)">Menu Item 1</div>
+		<div id="SubMenuOne" onmouseover="ShowSubMenu(1)" onmouseout="StartCloseTimer(1)">
+			Submenu Item 1<br />
+			Submenu Item 2<br />
+			Submenu Item 3<br />
+		</div>
+
+		<div id="MenuItem" onmouseover="ShowSubMenu(2)" onmouseout="StartCloseTimer(2)">Menu Item 2</div>
+		<div id="SubMenuTwo" onmouseover="ShowSubMenu(2)" onmouseout="StartCloseTimer(2)">
+			Submenu Item 1<br />
+			Submenu Item 2<br />
+			Submenu Item 3<br />
+		</div>
+
+		<div id="MenuItem" onmouseover="ShowSubMenu(3)" onmouseout="StartCloseTimer(3)">Menu Item 3</div>
+		<div id="SubMenuThree" onmouseover="ShowSubMenu(3)" onmouseout="StartCloseTimer(3)">
+			Submenu Item 1<br />
+			Submenu Item 2<br />
+			Submenu Item 3<br />
+		</div>
+
+
+		<script type="text/javascript">
+			init();
+		</script>
+
+	</body>
+
+</html>

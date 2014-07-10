@@ -1,0 +1,25 @@
+﻿<asp:Label runat="server" 
+    Width="100px" />
+
+<asp:Label runat="server" 
+    SkinID="Long"
+    Width="200px" />
+
+<asp:Label runat="server" 
+    SkinID="Message"
+    ForeColor="Red" />
+
+<asp:TextBox runat="server" 
+    Width="180px" />
+
+<asp:Button runat="server"
+    Width="60" />
+
+<asp:RequiredFieldValidator runat="server"
+    ForeColor="Red" />
+
+<asp:RegularExpressionValidator runat="server"
+    ForeColor="Red" />
+
+<asp:ValidationSummary runat="server"
+    ForeColor="Red" />

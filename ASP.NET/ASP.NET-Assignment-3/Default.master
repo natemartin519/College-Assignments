@@ -1,0 +1,38 @@
+﻿<!--
+Nathan Martin
+PROG1410 - ASP.NET
+Assignment 3
+Default.mMaster
+-->
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Default.master.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>User Survey</title>
+</head>
+<body>
+    <div class="continer">
+        <form id="UserServy" runat="server">
+            <div class="header">
+                <h1>User Servey</h1>
+            </div>
+
+            <div class="menu">
+                <asp:SiteMapDataSource ID="SiteMapDataSource" runat="server" />
+                <asp:Menu ID="MainMenu" runat="server" DataSourceID="SiteMapDataSource" MaximumDynamicDisplayLevels="0" StaticDisplayLevels="2" />          
+            </div>
+    
+            <div class="body">
+                <asp:ContentPlaceHolder ID="BodyContentPlaceHolder" runat="server" />
+            </div>
+    
+            <div class="footer">
+                <p>Assignment #3 - PROG1410: ASP.Net - Nathan Martin</p>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

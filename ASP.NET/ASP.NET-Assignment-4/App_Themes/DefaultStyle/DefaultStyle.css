@@ -1,0 +1,76 @@
+﻿body
+{    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+ul,li 
+{ 
+    list-style-type: none;
+    list-style-position: inside;
+    margin: 0;
+    padding: 5px; 
+}
+
+
+.container
+{
+    max-width: 1080px;
+	margin: 0px auto;	
+	background-color: #F0F0F0;
+
+}
+
+.header 
+{
+    text-align: center;
+}
+
+.body
+{
+    min-height: 600px;
+    padding: 0 20px 20px 20px;
+}
+
+.footer
+{    
+    text-align: right;
+    font-size: small;
+    padding-right: 10px;
+}
+
+.row
+{
+    margin: 20px 0;
+    background-color: #E0FFFF;
+    color: #333333;
+}
+
+.altRow
+{
+    margin: 20px 0;
+    background-color: #FFFFFF;
+    color: #284775;
+}
+
+.editRow
+{
+    margin: 20px 0;
+    background-color: #999999;
+}
+
+.insertRow
+{
+    margin: 50px 0 20px;
+}
+
+.searchRow
+{
+    text-align: right;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+.messageRow
+{
+    margin: 0;
+}

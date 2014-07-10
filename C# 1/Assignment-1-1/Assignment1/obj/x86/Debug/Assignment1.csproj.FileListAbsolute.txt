@@ -1,0 +1,5 @@
+C:\Users\Nathan\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Nathan\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Nathan\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Nathan\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.csprojResolveAssemblyReference.cache

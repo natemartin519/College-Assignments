@@ -1,0 +1,34 @@
+﻿.continer
+{
+    max-width: 1080px;
+	margin: 0px auto;	
+	background-color: #F0F0F0;
+}
+
+.header 
+{
+    text-align: center;
+}
+
+.menu
+{
+    float: left;
+	width: 180px;
+	padding-top: 18px;
+}
+
+.body
+{
+    float: right;
+    width: 860px;
+    min-height: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer
+{    
+    clear: both;
+    text-align: right;
+    font-size: small;
+}

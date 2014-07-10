@@ -1,0 +1,35 @@
+<!--
+Nathan Martin
+JavaScript
+Assignment #2
+-->
+
+<html>
+	<head>
+		<title>Assignment #2</title>
+
+		<script type="text/javascript" src='js/javascript.js'></script>
+
+	</head>
+
+	<body>
+
+		<form method="get" name="theForm">
+
+			Enter your first name: <input type="text" name="fName" id="fName" /><br />
+			Enter your last name: <input type="text" name="lName" id="lName" /><br />
+			Enter your favourite colour: <input type="text" name="colour" id="colour" /><br />
+
+			<br />
+
+			<input type="radio" onclick="submitForm('location1.html')" name="submitGroup" value="location1" />Link One<br />
+			<input type="radio" onclick="submitForm('location2.html')" name="submitGroup" value="location2" />Link Two<br />
+			<input type="radio" onclick="submitForm('location3.html')" name="submitGroup" value="location3" />Link Three
+
+		</form>
+
+		<input type="button" onclick="gotoPage()" value="Click Me">
+
+	</body>
+
+</html>

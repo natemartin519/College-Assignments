@@ -1,0 +1,7 @@
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.exe
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.pdb
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.TemperatureForm.resources

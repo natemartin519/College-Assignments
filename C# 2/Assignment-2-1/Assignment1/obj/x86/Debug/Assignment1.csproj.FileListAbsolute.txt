@@ -1,0 +1,4 @@
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\2\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\2\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\2\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\2\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb

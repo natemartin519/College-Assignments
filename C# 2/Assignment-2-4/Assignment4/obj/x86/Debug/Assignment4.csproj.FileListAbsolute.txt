@@ -1,0 +1,14 @@
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\obj\x86\Debug\Assignment4.RegularPolygonCalculator.resources
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\obj\x86\Debug\Assignment4.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\obj\x86\Debug\Assignment4.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\obj\x86\Debug\Assignment4.exe
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment4\Assignment4\obj\x86\Debug\Assignment4.pdb
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\obj\x86\Debug\Assignment4.exe
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\obj\x86\Debug\Assignment4.pdb
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\obj\x86\Debug\Assignment4.RegularPolygonCalculator.resources
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\obj\x86\Debug\Assignment4.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\Assignment-2-4\Assignment4\obj\x86\Debug\Assignment4.csproj.GenerateResource.Cache

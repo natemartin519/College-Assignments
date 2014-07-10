@@ -1,0 +1,7 @@
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\obj\x86\Debug\Assignment3.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\obj\x86\Debug\Assignment3.SeatingPrompt.resources
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\obj\x86\Debug\Assignment3.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\obj\x86\Debug\Assignment3.exe
+c:\users\nathan\documents\visual studio 2010\Projects\2\Assignment3\Assignment3\obj\x86\Debug\Assignment3.pdb

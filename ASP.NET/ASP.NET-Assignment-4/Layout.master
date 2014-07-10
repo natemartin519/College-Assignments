@@ -1,0 +1,33 @@
+﻿<!--
+Nathan Martin
+PROG1410 - ASP.NET
+Assignment 4
+Layout.master
+-->
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Layout.master.cs" Inherits="Layout" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Address Book</title>
+</head>
+<body>
+    <div class="container">
+        <form id="AddressForm" runat="server">
+            <div class="header">
+                <h1>Address Book!</h1>
+            </div>
+
+            <div class="body">
+                <asp:ContentPlaceHolder id="BodyContentPlaceHolder" runat="server" />
+            </div>
+
+            <div class="footer">
+                <p>Assignment #4 - PROG1410: ASP.Net - Nathan Martin</p>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

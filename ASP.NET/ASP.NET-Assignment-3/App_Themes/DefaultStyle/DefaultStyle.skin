@@ -1,0 +1,30 @@
+﻿<asp:Label runat="server" 
+    Width="120px" />
+
+<asp:Label runat="server" 
+    SkinID="Display"
+    ForeColor="Blue"
+    Width="120px" />
+
+<asp:Button runat="server" 
+    Font-Bold="true" />
+
+<asp:TextBox runat="server" 
+    ForeColor="#404040"
+    BorderStyle="Solid"
+    BorderWidth="1px" 
+    Width="120px" />
+
+<asp:Menu runat="server" ForeColor="Black">
+    <StaticSelectedStyle BackColor="#A5C8E8" Width="160"/>
+    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+</asp:Menu>
+
+<asp:RequiredFieldValidator runat="server"
+    ForeColor="Red" />
+
+<asp:RegularExpressionValidator runat="server"
+    ForeColor="Red" />
+
+<asp:ValidationSummary runat="server"
+    ForeColor="Red" />

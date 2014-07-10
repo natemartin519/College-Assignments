@@ -1,0 +1,51 @@
+<!--
+Nathan Martin
+JavaScript
+Assignment #1
+-->
+
+<html>
+	<head>
+		<title>Assignment #1</title>
+
+		<script type="text/javascript">
+
+			function addThreeValues(valueOne, valueTwo, valueThree){
+				var firstTwo = valueOne + valueTwo;
+
+				alert(valueThree + ", " + firstTwo);
+
+				return firstTwo + valueThree;
+			}
+
+			function addStuff(valueOne){
+				var formInput = document.getElementById('userInput').value;
+
+
+				if(isNaN(formInput)){
+
+					// concatenate the two values
+					return valueOne + formInput;
+				}else{
+
+					// convert the form input to an integer and add the two values
+					return valueOne + parseInt(formInput);
+				}
+			}
+
+			var threeValues = addThreeValues(1, 2, 3);
+
+		</script>
+
+	</head>
+
+	<body>
+
+		<form method="get" name="theForm" action="index.html">
+			<input type="text" name="userInput" id="userInput"><br>
+			<input type="button" onclick="alert(addStuff(threeValues))" value="Submit">
+		</form>
+
+	</body>
+
+</html>
